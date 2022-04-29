@@ -1,0 +1,37 @@
+[2022.04.28 21:00:12] [0000m.00s.498ms] [0] WELCOME
+[2022.04.28 21:00:12] [0000m.00s.498ms] [1] iCDB Server ver.2.210, lAMCCPgGndLueXBdAPvB3g, build:19222122 created 2021-08-24 19:25:25, sources stamp:lAMCCPgGndLueXBdAPvB3g
+[2022.04.28 21:00:12] [0000m.00s.498ms] [1] Unpublished work. Copyright 2021 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2022.04.28 21:00:12] [0000m.00s.499ms] [1] Base flow version [VX.2.10]
+[2022.04.28 21:00:12] [0000m.00s.499ms] [1] Install Id [2373040], Flow Id [PADS VX.2.10], Full Flow Name [PADS VX.2.10], Exact Access Date [2021/08/01]
+[2022.04.28 21:00:12] [0000m.00s.499ms] [1] Machine [LAPTOP-DHJ5LKCP]  IP [10.0.0.189,127.0.0.1,192.168.56.1,25.10.65.187]  User [josme]  PID [14292]
+[2022.04.28 21:00:12] [0000m.00s.499ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 22000)]
+[2022.04.28 21:00:12] [0000m.00s.499ms] [1] Current working dir [C:\Users\josme\OneDrive\Escritorio\Robo\IC-SHELTER_Joan_Peralta-master\Proyecto_Final\IC-Shelter]
+[2022.04.28 21:00:12] [0000m.00s.499ms] [1] PATH [C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common3D\win32\lib;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.10\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.10\MGC_HOME.ixn\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\josme\AppData\Local\Microsoft\WindowsApps;C:\Users\josme\AppData\Local\atom\bin;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\CAMCAD]
+[2022.04.28 21:00:12] [0000m.00s.499ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.10\SDD_HOME] on file system [NTFS]
+[2022.04.28 21:00:12] [0000m.00s.499ms] [1] SDD_PLATFORM [win32]
+[2022.04.28 21:00:12] [0000m.00s.499ms] [1] WDIR [C:\Pads;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\standard;]
+[2022.04.28 21:00:12] [0000m.00s.499ms] [1] Local iCDB working dir [C:\Pads\iCDB] on file system [NTFS]
+[2022.04.28 21:00:12] [0000m.00s.499ms] [0] Creating database content backup before upgrade
+[2022.04.28 21:00:12] [0000m.00s.511ms] [0] Database content backed up to [C:\Users\josme\OneDrive\Escritorio\Robo\IC-SHELTER_Joan_Peralta-master\Proyecto_Final\IC-Shelter\database\cdbback\2022-04-28 21.00.12-14292.zip] of size [221 181 bytes (216.0 kB)] in [11ms 277us]
+[2022.04.28 21:00:12] [0000m.00s.514ms] [0] Upgrading constraint definitions from version [ce_ee.cns=7.10.69]
+[2022.04.28 21:00:12] [0000m.00s.523ms] [0] Upgrading snapshot [1:DxD] from version [3800]
+[2022.04.28 21:00:13] [0000m.00s.546ms] [1] CORE: Upgrade snapshot DxD completed successfully.
+[2022.04.28 21:00:13] [0000m.00s.546ms] [0] Snapshot [1:DxD] upgraded to version [4000] in [22ms 829us]
+[2022.04.28 21:00:13] [0000m.00s.546ms] [0] Upgrading MinimalScheme constraints for snapshot [1:DxD]
+[2022.04.28 21:00:13] [0000m.00s.547ms] [0] MinimalScheme constraints for snapshot [1:DxD] upgraded in [611us]
+[2022.04.28 21:00:13] [0000m.00s.547ms] [0] Upgrading constraint definitions for snapshot [1:DxD]
+[2022.04.28 21:00:13] [0000m.00s.600ms] [0] Constraint definitions for snapshot [1:DxD] upgraded in [53ms 685us]
+[2022.04.28 21:00:13] [0000m.00s.601ms] [0] Saving upgraded snapshot [1:DxD]
+[2022.04.28 21:00:13] [0000m.00s.616ms] [0] Upgraded snapshot [1:DxD] saved in [14ms 851us]
+[2022.04.28 21:00:13] [0000m.00s.641ms] [0] Upgrading snapshot [2:__ise_DxD] from version [3800]
+[2022.04.28 21:00:13] [0000m.00s.643ms] [1] CORE: Upgrade snapshot __ise_DxD completed successfully.
+[2022.04.28 21:00:13] [0000m.00s.643ms] [0] Snapshot [2:__ise_DxD] upgraded to version [4000] in [1ms 576us]
+[2022.04.28 21:00:13] [0000m.00s.643ms] [0] Upgrading MinimalScheme constraints for snapshot [2:__ise_DxD]
+[2022.04.28 21:00:13] [0000m.00s.643ms] [0] MinimalScheme constraints for snapshot [2:__ise_DxD] upgraded in [0us]
+[2022.04.28 21:00:13] [0000m.00s.643ms] [0] Upgrading constraint definitions for snapshot [2:__ise_DxD]
+[2022.04.28 21:00:13] [0000m.00s.643ms] [0] Constraint definitions for snapshot [2:__ise_DxD] upgraded in [83us]
+[2022.04.28 21:00:13] [0000m.00s.643ms] [0] Saving upgraded snapshot [2:__ise_DxD]
+[2022.04.28 21:00:13] [0000m.00s.644ms] [0] Upgraded snapshot [2:__ise_DxD] saved in [385us]
+[2022.04.28 21:00:13] [0000m.00s.644ms] [0] Constraint definitions upgraded to version [ce_ee.cns=7.10.76]
+[2022.04.28 21:00:13] [0000m.00s.645ms] [0] DONE
+[2022.04.28 21:00:13] [0000m.00s.645ms] [0] .

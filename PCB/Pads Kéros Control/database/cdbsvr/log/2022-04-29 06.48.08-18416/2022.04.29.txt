@@ -1,0 +1,174 @@
+[2022.04.29 06:48:08] [0000m.00s.016ms] [0] WELCOME
+[2022.04.29 06:48:08] [0000m.00s.016ms] [1] iCDB Server ver.2.210, lAMCCPgGndLueXBdAPvB3g, build:19222122 created 2021-08-24 19:25:25, sources stamp:lAMCCPgGndLueXBdAPvB3g
+[2022.04.29 06:48:08] [0000m.00s.016ms] [1] Unpublished work. Copyright 2021 Siemens\r\n\r\nThis material contains trade secrets or otherwise confidential\r\ninformation owned by Siemens Industry Software Inc.\r\nor its affiliates (collectively, 'SISW'), or its licensors.\r\nAccess to and use of this information is strictly limited\r\nas set forth in the Customer's applicable agreements with SISW.
+[2022.04.29 06:48:08] [0000m.00s.026ms] [1] Base flow version [VX.2.10]
+[2022.04.29 06:48:08] [0000m.00s.026ms] [1] Install Id [2373040], Flow Id [PADS VX.2.10], Full Flow Name [PADS VX.2.10], Exact Access Date [2021/08/01]
+[2022.04.29 06:48:08] [0000m.00s.034ms] [1] Machine [LAPTOP-DHJ5LKCP]  IP [10.0.0.189,127.0.0.1,192.168.56.1,25.10.65.187]  User [josme]  PID [18416]
+[2022.04.29 06:48:08] [0000m.00s.034ms] [1] Operating system [Microsoft Windows 10 Home Premium Edition, 64-bit (build 22000)]
+[2022.04.29 06:48:08] [0000m.00s.034ms] [1] Current working dir [C:\Users\josme\OneDrive\Escritorio\Pads JP]
+[2022.04.29 06:48:08] [0000m.00s.034ms] [1] PATH [C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\bin;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\lib;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win64\lib;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common3D\win32\lib;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\jre\default\bin;C:\MentorGraphics\PADSVX.2.10\MGC_HOME.ixn\bin;C:\MentorGraphics\PADSVX.2.10\MGC_HOME.ixn\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\josme\AppData\Local\Microsoft\WindowsApps;C:\Users\josme\AppData\Local\atom\bin;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\CAMCAD]
+[2022.04.29 06:48:08] [0000m.00s.034ms] [1] SDD_HOME [C:\MentorGraphics\PADSVX.2.10\SDD_HOME] on file system [NTFS]
+[2022.04.29 06:48:08] [0000m.00s.034ms] [1] SDD_PLATFORM [win32]
+[2022.04.29 06:48:08] [0000m.00s.034ms] [1] WDIR [C:\Pads;C:\MentorGraphics\PADSVX.2.10\SDD_HOME\standard;]
+[2022.04.29 06:48:08] [0000m.00s.034ms] [1] Local iCDB working dir [C:\Pads\iCDB] on file system [NTFS]
+[2022.04.29 06:48:08] [0000m.00s.035ms] [2] S: Loading config files
+[2022.04.29 06:48:08] [0000m.00s.037ms] [1] Config file [C:\Users\josme\OneDrive\Escritorio\Pads JP\database\cdbsvr\Server.cfg] not found
+[2022.04.29 06:48:08] [0000m.00s.038ms] [3] S: Config loaded
+[2022.04.29 06:48:08] [0000m.00s.040ms] [0] S: Project path [C:\Users\josme\OneDrive\Escritorio\Pads JP\database] on file system [NTFS]
+[2022.04.29 06:48:08] [0000m.00s.040ms] [0] S: Project file (.prj) path [C:\Users\josme\OneDrive\Escritorio\Pads JP\IC-Shelter.prj] on file system [NTFS]
+[2022.04.29 06:48:08] [0000m.00s.040ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2022.04.29 06:48:08] [0000m.00s.040ms] [0] S: Single-user mode (auto)
+[2022.04.29 06:48:08] [0000m.00s.040ms] [0] S: Event polling mode autodetection
+[2022.04.29 06:48:08] [0000m.00s.040ms] [0] S: Started up automatically by iCDB Client: LAPTOP-DHJ5LKCP:josme:23076
+[2022.04.29 06:48:08] [0000m.00s.040ms] [0] S: Auto close mode
+[2022.04.29 06:48:08] [0000m.00s.041ms] [0] S: Database ID [eec2-751f-9e64-7a84-8e8b-b62e-e8bb-6260-1638-2b6c-a565-a470]
+[2022.04.29 06:48:08] [0000m.00s.041ms] [0] PathTranslator: BEGIN dumping
+[2022.04.29 06:48:08] [0000m.00s.041ms] [0] PathTranslator: Local -> global path prefix list
+[2022.04.29 06:48:08] [0000m.00s.041ms] [0] PathTranslator: Global -> local path prefix list
+[2022.04.29 06:48:08] [0000m.00s.041ms] [0] PathTranslator: END dumping
+[2022.04.29 06:48:08] [0000m.00s.041ms] [0] S: START
+[2022.04.29 06:48:08] [0000m.00s.041ms] [0] S: Server startup lock file created
+[2022.04.29 06:48:08] [0000m.00s.041ms] [0] S: Listening for client connections on port [10001]
+[2022.04.29 06:48:08] [0000m.00s.045ms] [0] S: Server network ID [LAPTOP-DHJ5LKCP:10.0.0.189,192.168.56.1,25.10.65.187,LAPTOP-DHJ5LKCP:10001]
+[2022.04.29 06:48:08] [0000m.00s.045ms] [0] S: Server GUID [5e67-4e6e-ce45-8919-862c-b62e-62cb-6260-d914-2b6c-a565-a470]
+[2022.04.29 06:48:08] [0000m.00s.046ms] [0] S: Project GUID [eec2-751f-9e64-7a84-8e8b-b62e-e8bb-6260-1638-2b6c-a565-a470]
+[2022.04.29 06:48:08] [0000m.00s.047ms] [0] S: Wrote data to server address file
+[2022.04.29 06:48:08] [0000m.00s.047ms] [0] S: Server startup lock file removed
+[2022.04.29 06:48:08] [0000m.00s.047ms] [1] ProjectBackupManager: Setting project file (.prj) path: [C:\Users\josme\OneDrive\Escritorio\Pads JP\IC-Shelter.prj]
+[2022.04.29 06:48:08] [0000m.00s.106ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2022.04.29 06:48:08] [0000m.00s.107ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\PADSVX.2.10\SDD_HOME\iCDB\win32\bin]
+[2022.04.29 06:48:08] [0000m.00s.107ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\PADSVX.2.10\SDD_HOME\common\win32\bin]
+[2022.04.29 06:48:08] [0000m.00s.107ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2022.04.29 06:48:08] [0000m.00s.107ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2022.04.29 06:48:08] [0000m.00s.107ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2022.04.29 06:48:08] [0000m.00s.108ms] [0] S: Local disc access time: 26 us
+[2022.04.29 06:48:08] [0000m.00s.108ms] [0] S: File server access time: 28 us
+[2022.04.29 06:48:08] [0000m.00s.108ms] [0] Single file [C:\Users\josme\OneDrive\Escritorio\Pads JP\database\icdb.dat] size [259632 (253.5 kB)]
+[2022.04.29 06:48:08] [0000m.00s.108ms] [1] Single file [C:\Users\josme\OneDrive\Escritorio\Pads JP\database\icdb.dat] opened in read-write mode
+[2022.04.29 06:48:08] [0000m.00s.108ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2022.04.29 06:48:08] [0000m.00s.109ms] [0] Database GUARD OK: [259632]
+[2022.04.29 06:48:08] [0000m.00s.109ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2022.04.29 06:48:08] [0000m.00s.109ms] [0] Database GUARD OK: [259632]
+[2022.04.29 06:48:08] [0000m.00s.110ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2022.04.29 06:48:08] [0000m.00s.110ms] [0] Database GUARD OK: [259632]
+[2022.04.29 06:48:08] [0000m.00s.110ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2022.04.29 06:48:08] [0000m.00s.110ms] [0] Database GUARD OK: [259632]
+[2022.04.29 06:48:08] [0000m.00s.110ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2022.04.29 06:48:08] [0000m.00s.110ms] [0] Database GUARD OK: [259632]
+[2022.04.29 06:48:08] [0000m.00s.110ms] [0] SingleFile: [7396-57a9-3d85-8165] SFI version check [1009] [1009]
+[2022.04.29 06:48:08] [0000m.00s.113ms] [0] SingleFile: [7396-57a9-3d85-8165] Database SFI header has been read in [3ms 295us]
+[2022.04.29 06:48:08] [0000m.00s.118ms] [0] iCDB Server PI: Server & plugin session [171]
+[2022.04.29 06:48:08] [0000m.00s.118ms] [0] iCDB Server PI: Opening database [C:\Users\josme\OneDrive\Escritorio\Pads JP\database]
+[2022.04.29 06:48:08] [0000m.00s.118ms] [0] iCDB Server PI: Database [C:\Users\josme\OneDrive\Escritorio\Pads JP\database] opened
+[2022.04.29 06:48:08] [0000m.00s.138ms] [0] iCDB Database: Checking existence of constraint definitions
+[2022.04.29 06:48:08] [0000m.00s.138ms] [0] iCDB Database: Checking constraint definitions version
+[2022.04.29 06:48:08] [0000m.00s.172ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.76] up to date
+[2022.04.29 06:48:08] [0000m.00s.177ms] [0] iCDB Server PI: Initializing plugins
+[2022.04.29 06:48:08] [0000m.00s.177ms] [0] iCDB Server PI: Plugins initialized
+[2022.04.29 06:48:08] [0000m.00s.177ms] [0] S: iCDB database loaded
+[2022.04.29 06:48:08] [0000m.00s.178ms] [0] S: Starting threads
+[2022.04.29 06:48:08] [0000m.00s.178ms] [0] BT: Listening for broadcast messages on port [10000]
+[2022.04.29 06:48:08] [0000m.00s.179ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2022.04.29 06:48:08] [0000m.00s.179ms] [0] IT: Session [172] for host [LAPTOP-DHJ5LKCP] user [josme] client type[0] clsvrPluginID[0] with process ID [23076] created
+[2022.04.29 06:48:08] [0000m.00s.182ms] [0] MWT: WindowProc: WM_NCCREATE
+[2022.04.29 06:48:08] [0000m.00s.182ms] [1] SC[172]: Registered sub-client [DxD] with ID [1] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:08] [0000m.00s.198ms] [0] IT: iCDB Server Monitor session [1] for host [LAPTOP-DHJ5LKCP] user [josme] with process ID [18556] created
+[2022.04.29 06:48:08] [0000m.00s.198ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2022.04.29 06:48:08] [0000m.00s.279ms] [1] CMT: There are [1] clients now: 172
+[2022.04.29 06:48:08] [0000m.00s.291ms] [1] SC[172]: Registered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:08] [0000m.00s.303ms] [1] SC[172]: Registered sub-client [SymbolEditor] with ID [3] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:08] [0000m.00s.308ms] [1] SC[172]: Registered sub-client [SelectionHolder] with ID [4] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:08] [0000m.00s.331ms] [1] SC[172]: Registered sub-client [Core::DesignListener-665130248-0] with ID [5] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:08] [0000m.00s.333ms] [1] SC[172]: Registered sub-client [BlockCacheDxD:665129432] with ID [6] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:08] [0000m.00s.335ms] [1] SC[172]: Registered sub-client [Core::NetFlatData-24907] with ID [7] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:08] [0000m.00s.342ms] [1] SC[172]: Registered sub-client [SystemDesignDll] with ID [8] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:08] [0000m.00s.345ms] [1] SC[172]: UnRegistered sub-client [SystemDesignDll] with ID [8] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:08] [0000m.00s.347ms] [1] SC[172]: Registered sub-client [SystemDesignDll] with ID [9] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:10] [0000m.02s.389ms] [1] SC[172]: Registered sub-client [DesignSearcher2] with ID [10] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:11] [0000m.03s.145ms] [1] SC[172]: Registered sub-client [HdlProject] with ID [11] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:11] [0000m.03s.148ms] [1] SC[172]: Registered sub-client [IBDInstanceDialog] with ID [12] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:11] [0000m.03s.153ms] [1] SC[172]: Registered sub-client [ProjectIntegrationIcdbCacheDxD:429849824] with ID [13] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:11] [0000m.03s.204ms] [1] SC[172]: Registered sub-client [SheetConnectorsCacheDxD:1651229291] with ID [14] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:11] [0000m.03s.251ms] [1] SC[172]: Registered sub-client [NetsNamesCollectorDxD:1651229291] with ID [15] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:11] [0000m.03s.280ms] [1] SC[172]: Registered sub-client [PartReplaceUtils] with ID [16] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:11] [0000m.03s.283ms] [1] SC[172]: Registered sub-client [PartReplaceUtilsSelectionListener] with ID [17] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:11] [0000m.03s.298ms] [1] SC[172]: Registered sub-client [xprob] with ID [18] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:11] [0000m.03s.370ms] [1] SC[172]: Registered sub-client [StartServerClient64a0] with ID [19] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:11] [0000m.03s.370ms] [1] SC[172]: UnRegistered sub-client [StartServerClient64a0] with ID [19] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:14] [0000m.06s.070ms] [1] SC[172]: Registered sub-client [Navigator] with ID [20] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:14] [0000m.06s.082ms] [1] SC[172]: Registered sub-client [OutputWindow] with ID [21] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:14] [0000m.06s.085ms] [1] SC[172]: Registered sub-client [PlaceDevice] with ID [22] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:14] [0000m.06s.435ms] [1] SC[172]: Registered sub-client [FFSearch_RBHost] with ID [23] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:14] [0000m.06s.438ms] [1] SC[172]: Registered sub-client [LocalSymbolsDataProvider] with ID [24] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:15] [0000m.07s.329ms] [1] SC[172]: Registered sub-client [FFSSelListener] with ID [25] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:15] [0000m.07s.331ms] [1] SC[172]: Registered sub-client [SAE] with ID [26] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:15] [0000m.07s.344ms] [1] SC[172]: Registered sub-client [DxConstraints] with ID [27] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:15] [0000m.07s.348ms] [1] SC[172]: Registered sub-client [CCZAddin] with ID [28] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:15] [0000m.07s.350ms] [1] SC[172]: Registered sub-client [DxThumbnails] with ID [29] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:15] [0000m.07s.353ms] [1] SC[172]: Registered sub-client [MyParts] with ID [30] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:15] [0000m.07s.368ms] [1] SC[172]: Registered sub-client [PinsList] with ID [31] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:15] [0000m.07s.427ms] [1] SC[172]: Registered sub-client [toolboxes] with ID [32] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:15] [0000m.07s.502ms] [1] SC[172]: Registered sub-client [ObjectHolder_731588240] with ID [33] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:15] [0000m.07s.504ms] [1] SC[172]: Registered sub-client [BlockCacheDxD:732774104] with ID [34] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:15] [0000m.07s.506ms] [1] SC[172]: Registered sub-client [GlobalNetAliasUpdater_731588552] with ID [35] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:16] [0000m.07s.508ms] [1] SC[172]: Registered sub-client [IcdbNetProcessorSubClientDxD:732211168] with ID [36] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:16] [0000m.07s.893ms] [1] SC[172]: Registered sub-client [SupplyChainDataProviderInterface] with ID [37] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:16] [0000m.07s.894ms] [1] SC[172]: UnRegistered sub-client [SupplyChainDataProviderInterface] with ID [37] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:20] [0000m.12s.026ms] [1] SC[172]: UnRegistered sub-client [SystemDesignDll] with ID [9] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:20] [0000m.12s.290ms] [1] SC[172]: UnRegistered sub-client [DesignSearcher2] with ID [10] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:20] [0000m.12s.365ms] [1] SC[172]: UnRegistered sub-client [xprob] with ID [18] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:20] [0000m.12s.413ms] [1] SC[172]: UnRegistered sub-client [GlobalNetAliasUpdater_731588552] with ID [35] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:20] [0000m.12s.413ms] [1] SC[172]: UnRegistered sub-client [BlockCacheDxD:732774104] with ID [34] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:20] [0000m.12s.413ms] [1] SC[172]: UnRegistered sub-client [ObjectHolder_731588240] with ID [33] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:20] [0000m.12s.413ms] [1] SC[172]: UnRegistered sub-client [IcdbNetProcessorSubClientDxD:732211168] with ID [36] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:20] [0000m.12s.416ms] [1] SC[172]: UnRegistered sub-client [Navigator] with ID [20] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:20] [0000m.12s.480ms] [1] SC[172]: UnRegistered sub-client [FFSSelListener] with ID [25] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:20] [0000m.12s.482ms] [1] SC[172]: UnRegistered sub-client [LocalSymbolsDataProvider] with ID [24] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.12s.577ms] [1] SC[172]: UnRegistered sub-client [FFSearch_RBHost] with ID [23] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.12s.594ms] [1] SC[172]: UnRegistered sub-client [MyParts] with ID [30] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.12s.594ms] [1] SC[172]: UnRegistered sub-client [toolboxes] with ID [32] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.12s.644ms] [1] SC[172]: UnRegistered sub-client [SelectionHolder] with ID [4] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.12s.644ms] [1] SC[172]: UnRegistered sub-client [PartReplaceUtils] with ID [16] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.12s.644ms] [1] SC[172]: UnRegistered sub-client [PartReplaceUtilsSelectionListener] with ID [17] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.234ms] [1] SC[172]: UnRegistered sub-client [ProjectIntegrationIcdbCacheDxD:429849824] with ID [13] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.235ms] [1] SC[172]: UnRegistered sub-client [Core::NetFlatData-24907] with ID [7] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.235ms] [1] SC[172]: UnRegistered sub-client [BlockCacheDxD:665129432] with ID [6] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.235ms] [1] SC[172]: UnRegistered sub-client [Core::DesignListener-665130248-0] with ID [5] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.236ms] [1] SC[172]: UnRegistered sub-client [SheetConnectorsCacheDxD:1651229291] with ID [14] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.236ms] [1] SC[172]: UnRegistered sub-client [NetsNamesCollectorDxD:1651229291] with ID [15] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.239ms] [1] SC[172]: UnRegistered sub-client [TransactionRollbackSubClient] with ID [2] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.239ms] [1] SC[172]: UnRegistered sub-client [DxD] with ID [1] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.245ms] [1] SC[172]: UnRegistered sub-client [SymbolEditor] with ID [3] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.256ms] [1] SC[172]: UnRegistered sub-client [OutputWindow] with ID [21] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.279ms] [1] SC[172]: UnRegistered sub-client [SAE] with ID [26] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.298ms] [1] SC[172]: UnRegistered sub-client [CCZAddin] with ID [28] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:21] [0000m.13s.303ms] [1] SC[172]: UnRegistered sub-client [DxThumbnails] with ID [29] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:25] [0000m.17s.499ms] [1] SC[172]: UnRegistered sub-client [DxConstraints] with ID [27] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:26] [0000m.17s.553ms] [1] SC[172]: UnRegistered sub-client [PinsList] with ID [31] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:26] [0000m.17s.630ms] [1] SC[172]: UnRegistered sub-client [PlaceDevice] with ID [22] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:26] [0000m.17s.695ms] [1] SC[172]: UnRegistered sub-client [IBDInstanceDialog] with ID [12] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:26] [0000m.17s.701ms] [1] SC[172]: UnRegistered sub-client [HdlProject] with ID [11] for session ID [172] host [LAPTOP-DHJ5LKCP] user [josme] process ID [23076]
+[2022.04.29 06:48:26] [0000m.17s.764ms] [1] CMT: Removed client [172]
+[2022.04.29 06:48:26] [0000m.17s.764ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2022.04.29 06:48:26] [0000m.17s.929ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2022.04.29 06:48:28] [0000m.19s.599ms] [0] CMT: Starting server auto-close
+[2022.04.29 06:48:28] [0000m.19s.666ms] [0] S: Closing server
+[2022.04.29 06:48:28] [0000m.19s.761ms] [0] iCDB Server PI: Closing plugins
+[2022.04.29 06:48:28] [0000m.19s.761ms] [0] iCDB Server PI: Plugins closed
+[2022.04.29 06:48:28] [0000m.19s.761ms] [0] iCDB Server PI: Unloading database
+[2022.04.29 06:48:28] [0000m.19s.761ms] [0] iCDB Server PI: Saving storage
+[2022.04.29 06:48:28] [0000m.19s.761ms] [0] iCDB Server PI: Closing database
+[2022.04.29 06:48:28] [0000m.19s.771ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[98%]
+[2022.04.29 06:48:28] [0000m.19s.771ms] [1] iCDB Server PI: Stats: Database file size [260160 (254.1 kB)]
+[2022.04.29 06:48:28] [0000m.19s.780ms] [0] iCDB Server PI: Database closed
+[2022.04.29 06:48:28] [0000m.19s.780ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [5169] ticks
+[2022.04.29 06:48:28] [0000m.19s.780ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [516] microseconds
+[2022.04.29 06:48:28] [0000m.19s.780ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [7]
+[2022.04.29 06:48:28] [0000m.19s.780ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [13542] commands per second
+[2022.04.29 06:48:28] [0000m.19s.780ms] [1] iCDB Server PI: Stats: Mem[34332672]
+[2022.04.29 06:48:28] [0000m.19s.780ms] [1] iCDB Server PI: Stats: MemPeak[43966464]
+[2022.04.29 06:48:28] [0000m.19s.781ms] [0] Single file [C:\Users\josme\OneDrive\Escritorio\Pads JP\database\icdb.dat] closed with size [260160 (254.1 kB)]
+[2022.04.29 06:48:28] [0000m.19s.900ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2022.04.29 06:48:28] [0000m.20s.029ms] [0] MWT: Destroy the shutdown block reason.
+[2022.04.29 06:48:28] [0000m.20s.031ms] [0] MWT: STOP
+[2022.04.29 06:48:28] [0000m.20s.031ms] [0] S: STOP
